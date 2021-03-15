@@ -1,0 +1,2 @@
+.todos{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;-webkit-align-items:center;align-items:center}.todos__title{font-weight:300}.todos__list{list-style:none}.todos__item{border-bottom:1px solid grey;display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between}.todos__completed{text-decoration:line-through}.todos__name{text-transform:uppercase;color:grey}html{font-family:Arial,Helvetica,sans-serif}
+/*# sourceMappingURL=main.bbe42f54.chunk.css.map */
